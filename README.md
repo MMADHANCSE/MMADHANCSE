@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" width="300' src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
