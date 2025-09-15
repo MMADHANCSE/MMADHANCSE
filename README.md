@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm themadmind</h1>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.MLwOz4IJvz7ncuIZzGiQrAHaB2?pid=Api&P=0&h=180" alt="themadmind" />
+    <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="themadmind" />
   </a>
 </p>
 
