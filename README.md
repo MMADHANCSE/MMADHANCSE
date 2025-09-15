@@ -39,21 +39,5 @@
   <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img height="180em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=themadmind&show_icons=true&locale=en&theme=blue" alt="themadmind stats" />
-</p>
-<p align="center">
-  <img height="180em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=themadmind&theme=blue" alt="themadmind streak" />
-</p>
 
-<h3 align="center">Statistics</h3>
-<div align="center">
-  <a href="https://github.com/themadmind">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themadmind&theme=blue" alt="themadmind profile summary" />
-  </a>
-</div>
 
-<h2 align="left">⚡Activity Graph:</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=themadmind&theme=blue" alt="themadmind activity graph" />
-</p>
