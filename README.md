@@ -8,11 +8,8 @@
   <a href="https://www.linkedin.com/in/m-madhan-4231a4373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/themadmind" target="_blank">
+  <a href="https://github.com/MMADHANCSE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:mmadhan2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 <h3 align="left">Connect with me:</h3>
@@ -22,9 +19,6 @@
   </a>
   <a href="https://leetcode.com/MMADHAN10/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="MMADHAN10" height="30" width="40" />
-  </a>
-  <a href="mailto:mmadhan2006@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +32,5 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
 </p>
-
 
 
