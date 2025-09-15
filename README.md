@@ -4,7 +4,6 @@
     <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="themadmind" />
   </a>
 </p>
-
 <div>
   <a href="https://www.linkedin.com/in/sanjith-s-j-27b5752a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -16,7 +15,6 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sanjith-s-j-27b5752a1" target="blank">
@@ -26,15 +24,12 @@
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="themadmind" height="30" width="40" />
   </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- [Icons unchanged; Instagram icon removed] -->
+  <!-- [Add icons here as needed; Instagram icon removed] -->
 </p>
-
 <p>&nbsp;<img align="center" height="180em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=themadmind&show_icons=true&locale=en&theme=red" alt="themadmind" /></p>
 <p><img align="center" height="180em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=themadmind&theme=red" alt="themadmind" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
