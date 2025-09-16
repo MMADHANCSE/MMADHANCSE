@@ -41,7 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" /> 
 </p>
 <br clear="both">
-## 🚀 My Projects
-- [My Website Project](file:///C:/Users/mmadh/Downloads/11.3+TinDog+Project/TinDog%20Project/index.html)
+
+## 🚀 Live Demo
+[Click here to view TinDog](https://your-username.github.io/TinDog-Project/)
 
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/1938b6cc-8b00-4297-8379-ae673e2bddea_880x247.gif"/>
