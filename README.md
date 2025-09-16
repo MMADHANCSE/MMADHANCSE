@@ -11,8 +11,8 @@
   <a href="https://github.com/MMADHANCSE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-   <a href="mailto:mmadhan2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:mmadhan2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 <img align="right" height="150" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"/>
