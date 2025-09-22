@@ -44,9 +44,6 @@
 <br clear="both">
 
 ## 🚀 Live Demo
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
 [Click here to view TinDog🐶](https://mmadhancse.github.io/myWeb-portfolio/)
 
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/1938b6cc-8b00-4297-8379-ae673e2bddea_880x247.gif"/>
