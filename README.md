@@ -44,8 +44,8 @@
 <br clear="both">
 
 ## 🚀 Live Demo
-[Click here to view TinDog🐶](https://mmadhancse.github.io/TinDogWeb/)
-[Click here to Roll Dicee 🎲](https://yourusername.github.io/dicee/dicee.html)
+[Click here to view TinDog🐶](https://mmadhancse.github.io/TinDogWeb/)<br>
+[Click here to Roll Dicee 🎲](https://mmadhancse.github.io/DiceMeWeb/)
 
 
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/1938b6cc-8b00-4297-8379-ae673e2bddea_880x247.gif"/>
