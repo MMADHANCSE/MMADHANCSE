@@ -45,8 +45,11 @@
 <br clear="both">
 
 ## 🚀 Live Demo
-<a href="https://mmadhancse.github.io/TinDogWeb/">Click here to view TinDog🐶</a><pre>     </pre>
-<a href="https://mmadhancse.github.io/DiceMeWeb/">Click here to Roll Dicee 🎲</a><br>
-<a href="https://mmadhancse.github.io/DrumMe/">Click here to play DrumMe 🥁</a><pre>      </pre>
-<a href="https://mmadhancse.github.io/simon-says-game/">Remember & Repeat Me 🔁</a>
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <a href="https://mmadhancse.github.io/TinDogWeb/">Click here to view TinDog🐶</a>
+  <a href="https://mmadhancse.github.io/DiceMeWeb/">Click here to Roll Dicee 🎲</a>
+  <a href="https://mmadhancse.github.io/DrumMe/">Click here to play DrumMe 🥁</a>
+  <a href="https://mmadhancse.github.io/simon-says-game/">Remember & Repeat Me 🔁</a>
+</div>
+
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/1938b6cc-8b00-4297-8379-ae673e2bddea_880x247.gif"/>
