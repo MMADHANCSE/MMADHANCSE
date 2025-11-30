@@ -47,7 +47,7 @@
 ## 🚀 Live Demo
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
   <a href="https://mmadhancse.github.io/TinDogWeb/">Click here to view TinDog🐶</a>
-  <a href="https://mmadhancse.github.io/DiceMeWeb/">Click here to Roll Dicee 🎲</a><br>
+  <a href="https://mmadhancse.github.io/DiceMeWeb/">Click here to Roll Dicee 🎲</a>
   <a href="https://mmadhancse.github.io/DrumMe/">Click here to play DrumMe 🥁</a>
   <a href="https://mmadhancse.github.io/simon-says-game/">Remember & Repeat Me 🔁</a>
 </div>
