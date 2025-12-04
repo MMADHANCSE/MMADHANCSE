@@ -1,14 +1,8 @@
 <h1 align="center">Hey, I'm themadmind</h1>
 <p align="left">
-
-
-3		-
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-4		-
     <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="themadmind" />
-5		-
   </a>
-6		-
 </p>
 <div>
   <a href="https://www.linkedin.com/in/m-madhan-4231a4373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
