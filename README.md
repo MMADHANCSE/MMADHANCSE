@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-<img align="right" height="150" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/m-madhan-4231a4373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
