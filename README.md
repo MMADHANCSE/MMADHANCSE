@@ -27,7 +27,6 @@
            width="40"
            style="display:inline-block; margin-right:10px;" />
     </a>
-
     <a href="https://leetcode.com/MMADHAN10/" target="_blank">
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg"
            alt="MMADHAN10"
@@ -37,7 +36,6 @@
     </a>
   </p>
 </div>
-
 <h2 align="center">💻 Technical Skills</h2>
 
 <div align="center">
