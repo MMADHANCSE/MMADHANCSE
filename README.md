@@ -16,8 +16,8 @@
   </a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/m-madhan-4231a4373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="m-madhan" height="30" width="40" style="display:inline-block; margin-right:10px;" />
   </a>
