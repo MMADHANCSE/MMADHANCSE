@@ -26,44 +26,36 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">💻 Technical Skills</h2>
 
-<table>
-<tr>
-  <td align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" width="40"/><br>Python</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" width="40"/><br>Java</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" width="40"/><br>HTML</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" width="40"/><br>CSS</td>
-</tr>
+<div align="center">
 
-<tr>
-  <td align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" width="40"/><br>JS</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node</td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60"/><br>Express</td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="40"/><br>Electron</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" width="40"/><br>React</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" width="40"/><br>MySQL</td>
-</tr>
+  <h3>🧑‍💻 Programming Languages</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&perline=8" />
+  </div>
 
-<tr>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
-  <td align="center"><img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" width="40"/><br>MATLAB</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/><br>Arduino</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40"/><br>GitHub</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td>
-</tr>
+  <h3>⚙️ Frameworks & Libraries</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,electron&perline=8" />
+  </div>
 
-<tr>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/><br>Android</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/><br>VS Code</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/><br>Eclipse</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40"/><br>Haskell</td>
-</tr>
-</table>
+  <h3>🛠️ Tools & Technologies</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,arduino&perline=8" />
+  </div>
+
+  <h3>🗄️ Databases</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=8" />
+  </div>
+
+  <h3>🧪 Others</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=matlab&perline=8" />
+  </div>
+
+</div>
 
 <br clear="both">
 
