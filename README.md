@@ -36,6 +36,9 @@
     </a>
   </p>
 </div>
+
+<hr style="width:60%; margin:20px auto;">
+
 <h2 align="center">💻 Technical Skills</h2>
 
 <div align="center">
