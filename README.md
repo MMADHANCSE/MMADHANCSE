@@ -22,8 +22,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/MMADHAN10/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" style="filter: invert(1);" />
+  <a href="https://leetcode.com/MMADHAN10/" target="blank">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" height="30" width="40"/>
   </a>
 </p>
 
