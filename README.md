@@ -15,15 +15,15 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-<h3 align="center">Connect with me:</h3>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-madhan-4231a4373" target="_blank">
+  <a href="https://www.linkedin.com/in/m-madhan-4231a4373" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/MMADHAN10/" target="blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" height="30" width="40"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
   </a>
 </p>
 
