@@ -20,12 +20,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/m-madhan-4231a4373" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/MMADHAN10/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" style="filter: invert(1);" />
   </a>
 </p>
-<hr>
+
 <h2 align="center">💻 Technical Skills</h2>
 
 <div align="center">
